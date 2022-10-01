@@ -1,20 +1,3 @@
-9962373282
-prabhu
-
-Hello there, Im a student of Saveetha engineering college pursuing B.E 3rd year who is very willing to get into tech domain.as of our environment doesnt have that much of skills nor telling about programs which will help the students to grow. i got to know about github from (youtube, linkedin and twitter) and it will also help my career and i want to build a Github-community in my college which will help my juniors and  my class mates to gain knowlege. 
-
-Becauseas of i didnt have anyone for me to tell about the technologies during my 1st years but i really want to develop the community skill in my college.
-
-If i get selected as a Github-benefits:
-
-plan1: I will select some students for my help as core team.
-
-plan2: I will conduct meetings on every saturday about technology,git-hub during the free times.
-plan3: useful for my career
-
-I really wish ,I will get an oppurtunity.
- 
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Smd Sohail</h1>
 <h3 align="center">A Passionate guy who is willing to go into Artificial Intelligence,Machine learning.</h3>
