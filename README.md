@@ -1,10 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAFa5TpGBLQ/JK48iBpvZheXlUE0DVoSCg/edit?utm_content=DAFa5TpGBLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+<h1 align="center">Hii👋, I'm Smd Sohail</h1>
 
-<h1 align="center">Hi 👋, I'm Smd Sohail</h1>
+<h3 align="center">A Passionate guy who is willing to go into Ai&Ml ,i'm also a Gdsc core lead in Ai & Ml,Technical Blogger @hashnode and E-book writer.</h3>
 
-<h3 align="center">A Passionate guy who is willing to go into Ai&Ml,i'm also a Gdsc core lead in Ai&Ml,Technical Blogger at hashnode and E-book writer.</h3>
-
-<img align="right" alt="Coding" width="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU">
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-droid&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-droid" /> </p>
 
@@ -44,10 +42,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/smdsohail2M"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/smdsohail2M" /></a></p><br><br>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail-droid&show_icons=true&locale=en&layout=compact" alt="sohail-droid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail-droid&show_icons=true&locale=en" alt="sohail-droid" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohail-droid&show_icons=true&locale=en" alt="sohail-droid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-droid&" alt="sohail-droid" /></p>
