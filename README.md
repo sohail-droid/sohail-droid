@@ -10,7 +10,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/smdsohail3131)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/SMDSohail77)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://sohail18.hashnode.dev/)
+[![](https://img.shields.io/badge/-Hashnode-2D4E00?style=flat-square)](https://sohail18.hashnode.dev/)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
