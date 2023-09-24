@@ -1,4 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Syed Mohammad Sohail <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Syed Mohammad Sohail <img 
+                                                                                                                                                    src="[https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif](https://cdn.bhdw.net/im/alone-anime-boy-wallpaper-84453_w635.webp)" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>I am a Final Year Student at <a href=["https://www.oneorigin.us/](https://www.google.com/search?q=saveetha+engineering+college+address&sca_esv=567946469&rlz=1C1RXQR_enIN927IN927&sxsrf=AM9HkKnV2s-zuUejD3QL7TmkYt_EEKMRjw%3A1695535630529&ei=DtIPZZPoH9HE4-EP07GFwAk&oq=saveetha++&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnNhdmVldGhhICAqAggBMgQQIxgnMgcQIxiKBRgnMgoQLhixAxiKBRhDMgoQLhixAxiKBRhDMhMQLhiDARivARjHARixAxiKBRhDMgcQABiKBRhDMgoQABiKBRixAxhDMgcQABiKBRhDMgoQLhiKBRjJAxhDMgsQABiABBixAxiDAUi7DlB7WKcCcAF4AZABAJgBqgOgAc0HqgEHMi0xLjEuMbgBAcgBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIKEAAYigUYsAMYQ8ICDhAAGOQCGNYEGLAD2AEBwgIQEC4YigUYyAMYsAMYQ9gBAuIDBBgAIEGIBgGQBhO6BgYIARABGAm6BgYIAhABGAg&sclient=gws-wiz-serp)">Saveetha engineering College.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -6,10 +7,10 @@
 
 ### 📫 Like to meet me?
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)]([https://twitter.com/intent/follow?screen_name=misteranmol](https://twitter.com/SMDSohail77))
-[![Linkedin: Sohail](https://img.shields.io/badge/-Sohail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/smdsohail3131](https://www.linkedin.com/in/smdsohail3131))]([https://www.linkedin.com/in/anmol098/](https://www.linkedin.com/in/smdsohail3131))
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/smdsohail3131)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/SMDSohail77)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://sohail18.hashnode.dev/)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
