@@ -41,8 +41,6 @@ const Sohail = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2067-blue)
 
-![Lines of code i wrote]("currently cant remember")
-
 **🐱 My GitHub Data** 
 > 📜 11 Public Repositories 
  >  
