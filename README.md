@@ -76,5 +76,13 @@ Python                   11 repos             ███████████�
  Last Updated on 24/09/2023 00:24:43 UTC
 <!--END_SECTION:waka-->
 
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/sohail-droid/Voice-Assistant-using-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Voice Command Assistan" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
 
