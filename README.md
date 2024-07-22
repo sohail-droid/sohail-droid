@@ -76,3 +76,5 @@ Python                   11 repos             ███████████�
 
  Last Updated on 22/07/2024 00:24:43 UTC
 <!--END_SECTION:waka-->
+
+<h2 align="center"><img src="https://www.canva.com/design/DAFZuRcRdgo/b81LnOQtS8bmWDrpBsB6Jw/edit?utm_content=DAFZuRcRdgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="30"/> </h2>
