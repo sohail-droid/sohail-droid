@@ -71,7 +71,7 @@ I build reliable cloud platforms that reduce cost and accelerate delivery. I pre
 
 ---
 
-## Visual Skills & "Gamer" stats
+## Visual Skills stats
 <table>
   <tr>
     <td width="55%">
