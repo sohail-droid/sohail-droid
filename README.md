@@ -39,7 +39,7 @@ I build reliable cloud platforms that reduce cost and accelerate delivery. I pre
 
 <!-- Interactive panels -->
 <details>
-<summary><strong>🎯 Executive Snapshot — Why I matter to leadership</strong></summary>
+<summary><strong> Executive Snapshot — Why I matter to leadership</strong></summary>
 
 - Convert business goals into measurable SLOs, cost targets, and delivery roadmaps.
 - Deliver reliable platforms: uptime targets, incident reduction, runbooked playbooks.
@@ -48,7 +48,7 @@ I build reliable cloud platforms that reduce cost and accelerate delivery. I pre
 </details>
 
 <details>
-<summary><strong>🛠️ Technical Snapshot — What I build for teams</strong></summary>
+<summary><strong> Technical Snapshot — What I build for teams</strong></summary>
 
 - Cloud: Google Cloud Platform (GKE, Cloud Run, Compute Engine, IAM, Cloud Storage)
 - IaC & Pipelines: Terraform, GitHub Actions, Cloud Build
