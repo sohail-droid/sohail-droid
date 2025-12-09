@@ -67,7 +67,6 @@ I build reliable cloud platforms that reduce cost and accelerate delivery. I pre
 - [Project-B] — Internal ops toolkit: automated cost reports, environment provisioning (Python CLI tooling).  
 - [Project-C] — Incident playbooks + runbooks repository with postmortem templates and dashboards.
 
-(Replace these placeholders with repo links you'd like featured; I can add short impact metrics — e.g., "reduced cloud spend by 28% in 3 months.")  
 </details>
 
 ---
